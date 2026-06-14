@@ -1,0 +1,301 @@
+ticket_id,created_at,resolved_at,status,priority,category,assigned_team,customer_segment,root_cause,sla_hours,resolution_hours,first_response_hours,sla_met,escalated
+INC-00001,2026-03-12T07:14,2026-03-12T19:02,Resolved,P3,Access,Help Desk,Small Business,Password reset process gap,24,11.81,2.99,Yes,No
+INC-00002,2026-05-10T19:01,,Open,P1,Access,Help Desk,Healthcare,User training gap,4,6.05,1.06,No,No
+INC-00003,2026-03-28T03:05,2026-03-29T04:21,Resolved,P3,Access,Help Desk,Small Business,Firewall rule mismatch,24,25.28,7.69,No,No
+INC-00004,2026-01-21T17:18,,Open,P2,Mobile Device Management,Network Ops,Enterprise,Password reset process gap,8,16.93,5.34,No,Yes
+INC-00005,2026-01-21T07:55,2026-01-21T17:34,Resolved,P3,Billing,Network Ops,Government,Outdated knowledge article,24,9.66,1.8,Yes,No
+INC-00006,2026-01-19T19:40,2026-01-20T00:44,Resolved,P2,Network,Customer Success,Healthcare,Outdated knowledge article,8,5.08,0.5,Yes,Yes
+INC-00007,2026-02-28T01:51,2026-03-01T19:48,Resolved,P4,Billing,Customer Success,Government,Expired certificate,72,41.96,2.93,Yes,No
+INC-00008,2026-04-28T04:16,,Open,P3,Device,Endpoint Support,Small Business,Outdated knowledge article,24,11.82,2.5,Yes,No
+INC-00009,2026-05-11T15:05,2026-05-12T06:41,Resolved,P2,Mobile Device Management,Endpoint Support,Enterprise,User training gap,8,15.6,1.5,No,Yes
+INC-00010,2026-05-16T08:35,2026-05-18T12:47,Resolved,P3,Mobile Device Management,Customer Success,Government,Outdated knowledge article,24,52.2,13.26,No,No
+INC-00011,2026-04-27T00:46,2026-04-27T18:31,Resolved,P2,Device,Help Desk,Government,Firewall rule mismatch,8,17.77,6.07,No,No
+INC-00012,2026-02-11T17:49,2026-02-14T01:28,Resolved,P3,Access,Help Desk,Government,VPN configuration drift,24,55.66,12.78,No,No
+INC-00013,2026-05-26T02:05,2026-05-26T17:15,Resolved,P2,Network,Endpoint Support,Healthcare,VPN configuration drift,8,15.17,5.21,No,No
+INC-00014,2026-02-24T17:48,2026-02-26T14:40,Resolved,P3,Software,Security,Small Business,Firewall rule mismatch,24,44.88,11.84,No,No
+INC-00015,2026-01-17T10:01,2026-01-18T22:57,Resolved,P3,Network,Help Desk,Healthcare,Device enrollment issue,24,36.95,8.37,No,Yes
+INC-00016,2026-01-19T16:15,2026-01-21T05:59,Closed,P4,Mobile Device Management,Customer Success,Small Business,Expired certificate,72,37.75,4.31,Yes,No
+INC-00017,2026-02-18T03:06,2026-02-21T12:13,Resolved,P4,Billing,Help Desk,Enterprise,Password reset process gap,72,81.12,14.36,No,No
+INC-00018,2026-01-28T07:12,2026-01-28T21:51,Closed,P3,Network,Endpoint Support,Healthcare,Device enrollment issue,24,14.65,1.35,Yes,No
+INC-00019,2026-05-21T03:03,,Open,P3,Mobile Device Management,Network Ops,Healthcare,User training gap,24,40.52,12.19,No,No
+INC-00020,2026-04-13T01:10,2026-04-14T02:23,Closed,P3,Access,Endpoint Support,Government,User training gap,24,25.22,3.27,No,No
+INC-00021,2026-05-23T21:45,2026-05-25T05:00,Resolved,P3,Security,Customer Success,Enterprise,Outdated knowledge article,24,31.25,4.34,No,No
+INC-00022,2026-05-09T16:10,,Open,P1,Software,Customer Success,Enterprise,Expired certificate,4,1.51,0.11,Yes,Yes
+INC-00023,2026-05-26T07:37,,Open,P3,Mobile Device Management,Customer Success,Government,VPN configuration drift,24,37.29,2.78,No,No
+INC-00024,2026-03-03T08:25,2026-03-03T12:46,Resolved,P2,Security,Help Desk,Small Business,License assignment issue,8,4.36,0.82,Yes,No
+INC-00025,2026-01-19T17:13,2026-01-22T08:53,Resolved,P4,Mobile Device Management,Network Ops,Government,VPN configuration drift,72,63.67,21.01,Yes,No
+INC-00026,2026-03-19T19:51,2026-03-20T09:37,Resolved,P2,Billing,Help Desk,Healthcare,VPN configuration drift,8,13.77,3.45,No,No
+INC-00027,2026-05-22T04:17,2026-05-22T11:21,Resolved,P2,Access,Security,Small Business,VPN configuration drift,8,7.07,1.88,Yes,Yes
+INC-00028,2026-01-24T20:27,2026-01-29T00:59,Resolved,P4,Mobile Device Management,Security,Healthcare,Hardware failure,72,100.55,5.13,No,No
+INC-00029,2026-01-03T03:04,2026-01-05T11:59,Resolved,P3,Device,Customer Success,Healthcare,User training gap,24,56.92,12.16,No,No
+INC-00030,2026-01-11T11:13,2026-01-12T01:29,Resolved,P2,Network,Customer Success,Healthcare,Expired certificate,8,14.28,2.23,No,No
+INC-00031,2026-02-15T13:01,2026-02-16T15:27,Resolved,P4,Mobile Device Management,Network Ops,Government,Carrier provisioning delay,72,26.45,7.53,Yes,No
+INC-00032,2026-01-10T15:14,2026-01-11T19:59,Closed,P4,Access,Network Ops,Healthcare,Password reset process gap,72,28.75,4.45,Yes,No
+INC-00033,2026-03-13T02:49,,Open,P3,Device,Customer Success,Government,Password reset process gap,24,19.63,3.34,Yes,No
+INC-00034,2026-02-15T18:16,,Open,P2,Mobile Device Management,Customer Success,Enterprise,User training gap,8,2.69,0.48,Yes,No
+INC-00035,2026-01-12T22:27,,Open,P4,Access,Network Ops,Government,User training gap,72,6.19,1.59,Yes,No
+INC-00036,2026-03-26T19:20,2026-03-27T02:18,Resolved,P1,Security,Security,Small Business,Outdated knowledge article,4,6.97,1.85,No,Yes
+INC-00037,2026-02-02T06:26,2026-02-03T23:40,Closed,P3,Network,Customer Success,Government,User training gap,24,41.24,10.44,No,No
+INC-00038,2026-03-15T06:27,,Open,P3,Access,Endpoint Support,Healthcare,Firewall rule mismatch,24,48.0,11.83,No,No
+INC-00039,2026-02-13T21:05,,Open,P3,Mobile Device Management,Network Ops,Government,Expired certificate,24,19.89,2.99,Yes,No
+INC-00040,2026-01-12T07:30,2026-01-15T11:11,Resolved,P4,Access,Customer Success,Healthcare,User training gap,72,75.69,14.12,No,No
+INC-00041,2026-01-02T03:49,2026-01-03T07:37,Resolved,P3,Network,Endpoint Support,Enterprise,Firewall rule mismatch,24,27.81,8.1,No,No
+INC-00042,2026-04-27T04:51,,Open,P2,Mobile Device Management,Endpoint Support,Small Business,Firewall rule mismatch,8,10.36,3.59,No,No
+INC-00043,2026-05-02T14:16,2026-05-04T12:21,Resolved,P3,Access,Network Ops,Government,Hardware failure,24,46.1,12.9,No,No
+INC-00044,2026-03-11T10:20,2026-03-11T19:22,Resolved,P1,Network,Network Ops,Healthcare,Device enrollment issue,4,9.04,0.83,No,Yes
+INC-00045,2026-04-30T13:03,2026-05-01T04:37,Closed,P3,Network,Help Desk,Small Business,Hardware failure,24,15.58,2.6,Yes,No
+INC-00046,2026-04-10T13:34,,Open,P1,Network,Security,Small Business,Hardware failure,4,7.73,2.24,No,No
+INC-00047,2026-04-14T23:10,2026-04-15T07:43,Resolved,P1,Network,Customer Success,Enterprise,Device enrollment issue,4,8.56,2.95,No,No
+INC-00048,2026-04-29T05:03,2026-04-29T23:37,Resolved,P3,Access,Endpoint Support,Government,User training gap,24,18.57,2.11,Yes,No
+INC-00049,2026-01-05T23:34,2026-01-06T02:30,Resolved,P2,Access,Help Desk,Enterprise,Expired certificate,8,2.94,0.34,Yes,Yes
+INC-00050,2026-02-09T07:08,2026-02-09T17:39,Resolved,P2,Access,Security,Government,Carrier provisioning delay,8,10.52,2.31,No,Yes
+INC-00051,2026-01-30T05:19,2026-01-30T15:22,Resolved,P3,Mobile Device Management,Endpoint Support,Small Business,Expired certificate,24,10.05,3.3,Yes,No
+INC-00052,2026-03-04T03:44,,Open,P1,Security,Help Desk,Government,Firewall rule mismatch,4,7.95,2.32,No,No
+INC-00053,2026-05-10T20:21,2026-05-11T01:03,Closed,P3,Device,Security,Small Business,Carrier provisioning delay,24,4.71,1.4,Yes,No
+INC-00054,2026-03-11T19:51,2026-03-14T03:20,Closed,P3,Security,Customer Success,Government,Outdated knowledge article,24,55.5,10.51,No,No
+INC-00055,2026-01-23T08:56,2026-01-25T18:19,Closed,P4,Billing,Security,Enterprise,Hardware failure,72,57.39,12.68,Yes,No
+INC-00056,2026-02-24T11:51,2026-02-25T23:18,Resolved,P4,Access,Security,Enterprise,Firewall rule mismatch,72,35.45,11.14,Yes,No
+INC-00057,2026-04-15T15:35,2026-04-19T12:00,Closed,P4,Access,Help Desk,Enterprise,VPN configuration drift,72,92.43,22.53,No,No
+INC-00058,2026-03-20T21:37,,Open,P2,Security,Security,Government,Hardware failure,8,8.64,1.81,No,No
+INC-00059,2026-01-31T23:12,,Open,P3,Network,Network Ops,Healthcare,Hardware failure,24,21.67,7.27,Yes,No
+INC-00060,2026-05-15T19:18,2026-05-18T06:12,Resolved,P3,Software,Security,Enterprise,Firewall rule mismatch,24,58.91,8.18,No,No
+INC-00061,2026-01-14T17:18,2026-01-15T07:51,Resolved,P2,Access,Help Desk,Government,Hardware failure,8,14.55,3.51,No,No
+INC-00062,2026-01-14T08:55,2026-01-15T15:40,Resolved,P3,Network,Help Desk,Healthcare,Carrier provisioning delay,24,30.75,5.23,No,Yes
+INC-00063,2026-01-22T07:07,2026-01-25T04:44,Closed,P4,Mobile Device Management,Network Ops,Small Business,Hardware failure,72,69.62,16.14,Yes,No
+INC-00064,2026-04-20T09:36,,Open,P4,Network,Network Ops,Healthcare,VPN configuration drift,72,76.8,25.96,No,No
+INC-00065,2026-02-14T17:04,2026-02-15T05:49,Closed,P3,Access,Security,Enterprise,Expired certificate,24,12.77,2.36,Yes,No
+INC-00066,2026-04-27T02:43,2026-04-27T19:47,Resolved,P3,Network,Network Ops,Small Business,Device enrollment issue,24,17.07,4.89,Yes,No
+INC-00067,2026-03-10T04:04,2026-03-10T11:24,Resolved,P3,Software,Security,Small Business,Device enrollment issue,24,7.34,1.68,Yes,No
+INC-00068,2026-04-14T08:32,2026-04-15T18:46,Closed,P3,Network,Endpoint Support,Government,License assignment issue,24,34.24,2.54,No,Yes
+INC-00069,2026-05-28T18:01,2026-05-29T14:00,Resolved,P2,Access,Customer Success,Small Business,VPN configuration drift,8,19.99,4.46,No,No
+INC-00070,2026-05-06T02:30,2026-05-06T10:45,Resolved,P2,Software,Network Ops,Government,User training gap,8,8.26,1.21,No,Yes
+INC-00071,2026-04-13T17:02,2026-04-14T22:30,Resolved,P3,Network,Endpoint Support,Enterprise,Firewall rule mismatch,24,29.47,3.7,No,No
+INC-00072,2026-05-13T11:39,2026-05-15T10:00,Closed,P3,Access,Customer Success,Healthcare,VPN configuration drift,24,46.36,12.89,No,No
+INC-00073,2026-02-01T00:40,2026-02-02T14:45,Resolved,P3,Security,Help Desk,Small Business,Device enrollment issue,24,38.1,10.02,No,No
+INC-00074,2026-01-30T14:07,2026-01-31T03:46,Resolved,P2,Mobile Device Management,Security,Small Business,Hardware failure,8,13.66,2.73,No,No
+INC-00075,2026-05-22T04:24,,Open,P4,Network,Help Desk,Government,User training gap,72,27.73,5.61,Yes,No
+INC-00076,2026-03-10T00:18,,Open,P3,Billing,Network Ops,Small Business,Firewall rule mismatch,24,44.66,10.0,No,No
+INC-00077,2026-05-20T12:29,2026-05-22T20:43,Resolved,P3,Network,Endpoint Support,Healthcare,User training gap,24,56.24,19.36,No,No
+INC-00078,2026-04-08T12:42,2026-04-08T20:49,Resolved,P1,Billing,Customer Success,Government,Device enrollment issue,4,8.13,1.61,No,Yes
+INC-00079,2026-05-15T14:00,2026-05-19T06:21,Closed,P4,Device,Help Desk,Small Business,VPN configuration drift,72,88.36,27.5,No,No
+INC-00080,2026-01-21T10:54,,Open,P3,Security,Endpoint Support,Enterprise,License assignment issue,24,41.76,6.85,No,No
+INC-00081,2026-03-15T07:47,2026-03-15T09:35,Resolved,P1,Software,Network Ops,Government,Password reset process gap,4,1.81,0.5,Yes,No
+INC-00082,2026-03-17T11:23,2026-03-17T16:15,Resolved,P1,Billing,Network Ops,Healthcare,Device enrollment issue,4,4.88,1.02,No,No
+INC-00083,2026-03-03T15:58,2026-03-05T04:37,Resolved,P3,Device,Security,Enterprise,Hardware failure,24,36.66,6.9,No,No
+INC-00084,2026-02-10T02:28,,Open,P4,Security,Security,Small Business,VPN configuration drift,72,113.76,15.9,No,No
+INC-00085,2026-05-04T03:15,2026-05-04T12:06,Resolved,P2,Device,Endpoint Support,Government,Password reset process gap,8,8.86,1.97,No,No
+INC-00086,2026-01-13T19:47,2026-01-15T03:36,Resolved,P3,Security,Security,Healthcare,Expired certificate,24,31.82,9.0,No,No
+INC-00087,2026-02-05T20:06,2026-02-08T02:41,Resolved,P3,Security,Customer Success,Government,Carrier provisioning delay,24,54.59,7.79,No,No
+INC-00088,2026-04-17T05:12,,Open,P2,Network,Customer Success,Government,Carrier provisioning delay,8,4.38,1.37,Yes,Yes
+INC-00089,2026-05-04T09:47,2026-05-05T03:27,Resolved,P2,Billing,Network Ops,Small Business,Firewall rule mismatch,8,17.67,3.37,No,Yes
+INC-00090,2026-01-04T08:34,2026-01-04T19:29,Resolved,P3,Billing,Customer Success,Small Business,Outdated knowledge article,24,10.92,2.75,Yes,No
+INC-00091,2026-01-07T19:56,2026-01-08T14:54,Resolved,P2,Access,Help Desk,Small Business,VPN configuration drift,8,18.98,6.16,No,Yes
+INC-00092,2026-01-12T01:19,2026-01-14T13:05,Resolved,P3,Access,Network Ops,Small Business,Hardware failure,24,59.77,4.73,No,No
+INC-00093,2026-05-19T13:37,2026-05-21T11:11,Resolved,P3,Mobile Device Management,Endpoint Support,Small Business,VPN configuration drift,24,45.57,14.38,No,No
+INC-00094,2026-04-24T14:15,2026-04-24T22:56,Resolved,P1,Device,Security,Enterprise,User training gap,4,8.7,2.99,No,Yes
+INC-00095,2026-04-27T02:42,,Open,P3,Mobile Device Management,Security,Healthcare,Carrier provisioning delay,24,15.88,5.42,Yes,Yes
+INC-00096,2026-05-22T06:37,2026-05-23T13:14,Resolved,P4,Access,Customer Success,Enterprise,VPN configuration drift,72,30.62,4.55,Yes,No
+INC-00097,2026-02-03T17:16,2026-02-07T18:17,Resolved,P4,Access,Help Desk,Government,Expired certificate,72,97.03,24.09,No,Yes
+INC-00098,2026-03-09T01:08,,Open,P3,Access,Endpoint Support,Government,Firewall rule mismatch,24,45.54,3.83,No,Yes
+INC-00099,2026-02-26T19:02,,Open,P3,Device,Help Desk,Enterprise,Hardware failure,24,44.73,6.28,No,No
+INC-00100,2026-01-28T15:45,2026-02-02T05:27,Resolved,P4,Device,Network Ops,Enterprise,Carrier provisioning delay,72,109.71,35.08,No,No
+INC-00101,2026-05-21T22:20,,Open,P3,Software,Customer Success,Small Business,Device enrollment issue,24,25.33,5.3,No,No
+INC-00102,2026-05-22T23:55,2026-05-24T06:25,Closed,P4,Access,Endpoint Support,Small Business,User training gap,72,30.51,9.66,Yes,No
+INC-00103,2026-03-22T21:16,2026-03-24T21:56,Resolved,P4,Network,Help Desk,Enterprise,Device enrollment issue,72,48.67,12.46,Yes,No
+INC-00104,2026-04-06T04:35,,Open,P3,Billing,Endpoint Support,Government,User training gap,24,7.36,1.61,Yes,No
+INC-00105,2026-03-15T19:19,,Open,P4,Security,Endpoint Support,Healthcare,Device enrollment issue,72,46.09,9.32,Yes,No
+INC-00106,2026-01-30T08:36,2026-01-31T01:15,Closed,P3,Software,Customer Success,Enterprise,License assignment issue,24,16.66,5.06,Yes,No
+INC-00107,2026-03-10T00:11,2026-03-11T13:20,Resolved,P4,Billing,Network Ops,Healthcare,License assignment issue,72,37.15,12.13,Yes,No
+INC-00108,2026-01-08T02:47,2026-01-09T12:29,Closed,P3,Access,Security,Government,Outdated knowledge article,24,33.71,5.93,No,No
+INC-00109,2026-01-22T01:09,,Open,P4,Software,Endpoint Support,Small Business,Hardware failure,72,23.94,1.55,Yes,No
+INC-00110,2026-02-25T16:07,2026-02-26T15:26,Resolved,P3,Device,Endpoint Support,Government,Password reset process gap,24,23.33,3.15,Yes,No
+INC-00111,2026-01-15T00:13,2026-01-15T07:38,Resolved,P2,Mobile Device Management,Help Desk,Enterprise,Hardware failure,8,7.43,2.08,Yes,No
+INC-00112,2026-04-08T17:45,,Open,P4,Access,Help Desk,Small Business,Password reset process gap,72,32.23,9.67,Yes,No
+INC-00113,2026-01-20T10:36,2026-01-21T14:38,Closed,P3,Device,Help Desk,Small Business,Password reset process gap,24,28.04,7.37,No,No
+INC-00114,2026-04-28T22:58,2026-04-30T22:13,Closed,P4,Access,Customer Success,Small Business,Firewall rule mismatch,72,47.25,14.33,Yes,No
+INC-00115,2026-03-28T07:21,2026-03-28T15:21,Resolved,P1,Mobile Device Management,Customer Success,Healthcare,Outdated knowledge article,4,8.01,1.63,No,Yes
+INC-00116,2026-02-07T07:06,2026-02-07T19:18,Resolved,P3,Mobile Device Management,Help Desk,Healthcare,Hardware failure,24,12.2,1.25,Yes,No
+INC-00117,2026-05-29T14:43,,Open,P3,Software,Security,Government,Carrier provisioning delay,24,55.75,13.54,No,No
+INC-00118,2026-03-19T08:37,,Open,P3,Device,Help Desk,Enterprise,Outdated knowledge article,24,7.15,0.52,Yes,No
+INC-00119,2026-01-24T19:38,2026-01-27T11:26,Closed,P4,Access,Help Desk,Small Business,License assignment issue,72,63.81,14.3,Yes,No
+INC-00120,2026-05-02T16:09,2026-05-05T01:46,Closed,P3,Network,Security,Enterprise,Firewall rule mismatch,24,57.63,4.67,No,No
+INC-00121,2026-04-23T14:33,2026-04-24T23:49,Resolved,P3,Access,Endpoint Support,Small Business,Outdated knowledge article,24,33.27,5.3,No,No
+INC-00122,2026-03-27T02:21,2026-03-27T11:38,Closed,P3,Access,Customer Success,Healthcare,Outdated knowledge article,24,9.29,1.26,Yes,No
+INC-00123,2026-03-31T09:41,2026-04-01T00:15,Closed,P2,Security,Customer Success,Small Business,Outdated knowledge article,8,14.57,1.29,No,No
+INC-00124,2026-05-15T02:41,,Open,P4,Security,Network Ops,Healthcare,Outdated knowledge article,72,82.43,13.07,No,No
+INC-00125,2026-02-27T04:09,2026-02-27T18:56,Resolved,P4,Device,Customer Success,Enterprise,Outdated knowledge article,72,14.8,2.99,Yes,No
+INC-00126,2026-04-07T04:10,,Open,P4,Software,Endpoint Support,Enterprise,User training gap,72,26.62,7.79,Yes,No
+INC-00127,2026-04-24T19:18,2026-04-26T17:26,Closed,P3,Security,Endpoint Support,Healthcare,Outdated knowledge article,24,46.13,5.55,No,No
+INC-00128,2026-04-23T14:49,2026-04-24T10:35,Closed,P3,Software,Network Ops,Healthcare,License assignment issue,24,19.78,3.97,Yes,No
+INC-00129,2026-05-04T11:35,,Open,P2,Network,Network Ops,Government,Hardware failure,8,18.82,5.75,No,Yes
+INC-00130,2026-04-22T02:58,2026-04-23T10:16,Closed,P4,Access,Endpoint Support,Enterprise,User training gap,72,31.31,9.88,Yes,No
+INC-00131,2026-01-21T11:14,2026-01-21T16:48,Resolved,P3,Access,Network Ops,Healthcare,Password reset process gap,24,5.58,1.68,Yes,No
+INC-00132,2026-02-05T22:30,2026-02-07T03:37,Resolved,P3,Billing,Network Ops,Healthcare,Firewall rule mismatch,24,29.12,9.37,No,Yes
+INC-00133,2026-04-19T03:49,2026-04-20T18:39,Resolved,P4,Software,Customer Success,Small Business,Device enrollment issue,72,38.84,3.36,Yes,No
+INC-00134,2026-05-18T00:40,2026-05-18T11:56,Resolved,P2,Mobile Device Management,Help Desk,Government,Expired certificate,8,11.28,2.99,No,Yes
+INC-00135,2026-01-22T16:23,,Open,P3,Access,Customer Success,Enterprise,User training gap,24,7.79,1.66,Yes,No
+INC-00136,2026-04-10T11:16,2026-04-14T06:27,Resolved,P4,Access,Help Desk,Government,Carrier provisioning delay,72,91.19,26.13,No,No
+INC-00137,2026-02-14T21:29,2026-02-15T07:18,Closed,P1,Software,Endpoint Support,Enterprise,VPN configuration drift,4,9.83,2.35,No,Yes
+INC-00138,2026-01-11T10:59,2026-01-11T18:33,Closed,P2,Billing,Network Ops,Government,Outdated knowledge article,8,7.58,2.63,Yes,No
+INC-00139,2026-03-26T08:07,2026-03-30T09:14,Closed,P4,Access,Endpoint Support,Government,Carrier provisioning delay,72,97.13,30.77,No,No
+INC-00140,2026-05-13T08:51,2026-05-13T17:28,Closed,P3,Device,Network Ops,Government,Outdated knowledge article,24,8.63,0.64,Yes,No
+INC-00141,2026-03-17T09:28,2026-03-17T22:18,Closed,P2,Network,Security,Small Business,VPN configuration drift,8,12.85,1.28,No,No
+INC-00142,2026-01-15T02:42,2026-01-16T18:24,Resolved,P3,Billing,Network Ops,Enterprise,Carrier provisioning delay,24,39.7,8.1,No,No
+INC-00143,2026-04-23T01:08,2026-04-23T14:47,Resolved,P4,Security,Help Desk,Healthcare,Hardware failure,72,13.66,2.17,Yes,No
+INC-00144,2026-01-20T18:08,2026-01-23T12:29,Closed,P4,Device,Help Desk,Enterprise,Carrier provisioning delay,72,66.36,9.58,Yes,No
+INC-00145,2026-05-24T03:16,2026-05-26T02:39,Closed,P3,Device,Endpoint Support,Healthcare,Device enrollment issue,24,47.4,5.42,No,No
+INC-00146,2026-02-14T22:28,2026-02-15T18:25,Resolved,P2,Access,Security,Government,Carrier provisioning delay,8,19.95,4.99,No,No
+INC-00147,2026-02-14T11:32,2026-02-15T19:05,Resolved,P4,Mobile Device Management,Endpoint Support,Enterprise,Outdated knowledge article,72,31.56,9.08,Yes,No
+INC-00148,2026-05-22T04:39,2026-05-24T10:10,Resolved,P3,Network,Endpoint Support,Small Business,User training gap,24,53.52,7.64,No,No
+INC-00149,2026-03-23T20:04,,Open,P4,Access,Customer Success,Healthcare,Carrier provisioning delay,72,57.3,8.79,Yes,No
+INC-00150,2026-01-15T03:33,2026-01-15T16:07,Resolved,P3,Mobile Device Management,Network Ops,Government,Firewall rule mismatch,24,12.57,1.24,Yes,No
+INC-00151,2026-03-06T06:40,2026-03-11T01:41,Resolved,P4,Mobile Device Management,Customer Success,Enterprise,Firewall rule mismatch,72,115.02,10.07,No,No
+INC-00152,2026-05-29T04:10,,Open,P3,Software,Help Desk,Enterprise,Device enrollment issue,24,40.89,6.19,No,No
+INC-00153,2026-05-28T08:41,,Open,P1,Software,Customer Success,Government,VPN configuration drift,4,2.9,0.51,Yes,No
+INC-00154,2026-04-14T09:29,2026-04-14T17:34,Resolved,P3,Billing,Endpoint Support,Healthcare,Outdated knowledge article,24,8.09,0.79,Yes,No
+INC-00155,2026-03-23T23:55,2026-03-24T23:15,Closed,P3,Network,Customer Success,Enterprise,Outdated knowledge article,24,23.34,2.08,Yes,No
+INC-00156,2026-04-26T07:09,2026-04-26T10:53,Resolved,P2,Access,Network Ops,Government,License assignment issue,8,3.74,1.25,Yes,No
+INC-00157,2026-02-10T15:32,2026-02-13T02:45,Resolved,P4,Access,Endpoint Support,Small Business,Expired certificate,72,59.22,11.8,Yes,No
+INC-00158,2026-01-13T09:31,2026-01-13T22:16,Closed,P2,Network,Help Desk,Small Business,Carrier provisioning delay,8,12.76,1.73,No,Yes
+INC-00159,2026-04-14T11:02,,Open,P4,Security,Security,Enterprise,User training gap,72,51.67,11.29,Yes,No
+INC-00160,2026-03-13T19:43,2026-03-15T09:56,Resolved,P3,Billing,Security,Government,Carrier provisioning delay,24,38.22,13.09,No,No
+INC-00161,2026-05-09T01:02,2026-05-09T03:44,Resolved,P2,Device,Customer Success,Healthcare,Outdated knowledge article,8,2.7,0.79,Yes,No
+INC-00162,2026-04-11T19:47,,Open,P4,Network,Customer Success,Small Business,License assignment issue,72,102.06,15.4,No,No
+INC-00163,2026-04-05T10:43,2026-04-05T20:51,Closed,P3,Billing,Help Desk,Small Business,VPN configuration drift,24,10.14,2.28,Yes,No
+INC-00164,2026-05-29T18:14,,Open,P4,Billing,Customer Success,Small Business,Carrier provisioning delay,72,88.24,17.13,No,No
+INC-00165,2026-05-27T22:07,2026-05-29T01:51,Closed,P4,Network,Network Ops,Small Business,Firewall rule mismatch,72,27.75,4.0,Yes,No
+INC-00166,2026-01-16T22:08,,Open,P4,Mobile Device Management,Customer Success,Small Business,Outdated knowledge article,72,65.13,9.61,Yes,No
+INC-00167,2026-05-17T10:34,2026-05-19T08:57,Resolved,P4,Device,Network Ops,Government,Firewall rule mismatch,72,46.39,10.81,Yes,No
+INC-00168,2026-03-18T09:45,2026-03-19T01:21,Closed,P3,Mobile Device Management,Security,Government,Device enrollment issue,24,15.61,2.26,Yes,No
+INC-00169,2026-04-12T11:49,2026-04-14T12:52,Resolved,P3,Software,Help Desk,Government,Hardware failure,24,49.06,3.07,No,No
+INC-00170,2026-02-24T06:52,,Open,P3,Billing,Customer Success,Healthcare,Expired certificate,24,34.16,8.84,No,No
+INC-00171,2026-02-27T20:14,2026-02-27T21:42,Closed,P1,Mobile Device Management,Network Ops,Enterprise,Firewall rule mismatch,4,1.47,0.22,Yes,No
+INC-00172,2026-05-02T15:41,2026-05-03T20:25,Resolved,P4,Access,Help Desk,Healthcare,Firewall rule mismatch,72,28.74,4.21,Yes,No
+INC-00173,2026-01-10T05:26,2026-01-14T16:00,Resolved,P4,Mobile Device Management,Endpoint Support,Small Business,Carrier provisioning delay,72,106.58,35.19,No,Yes
+INC-00174,2026-03-16T01:00,,Open,P4,Mobile Device Management,Security,Small Business,Firewall rule mismatch,72,40.02,3.29,Yes,No
+INC-00175,2026-02-04T16:29,2026-02-05T11:45,Resolved,P3,Mobile Device Management,Security,Healthcare,Password reset process gap,24,19.28,2.88,Yes,No
+INC-00176,2026-05-26T21:48,,Open,P4,Billing,Endpoint Support,Government,Device enrollment issue,72,28.02,8.6,Yes,No
+INC-00177,2026-02-05T15:20,2026-02-07T23:44,Resolved,P3,Access,Security,Government,VPN configuration drift,24,56.41,7.23,No,No
+INC-00178,2026-03-08T20:23,2026-03-10T15:10,Resolved,P3,Software,Network Ops,Small Business,Firewall rule mismatch,24,42.8,10.71,No,No
+INC-00179,2026-03-21T22:07,2026-03-25T04:55,Resolved,P4,Mobile Device Management,Network Ops,Small Business,Carrier provisioning delay,72,78.81,12.63,No,No
+INC-00180,2026-04-06T13:44,2026-04-08T00:29,Closed,P3,Mobile Device Management,Network Ops,Healthcare,License assignment issue,24,34.76,9.63,No,No
+INC-00181,2026-04-25T16:45,,Open,P4,Access,Customer Success,Healthcare,License assignment issue,72,47.24,3.95,Yes,No
+INC-00182,2026-05-14T14:07,,Open,P3,Access,Endpoint Support,Enterprise,Hardware failure,24,42.1,8.28,No,No
+INC-00183,2026-05-25T01:35,2026-05-25T11:54,Resolved,P2,Device,Network Ops,Enterprise,Password reset process gap,8,10.32,2.76,No,No
+INC-00184,2026-05-19T01:59,2026-05-21T08:03,Closed,P3,Security,Network Ops,Small Business,Outdated knowledge article,24,54.08,3.22,No,No
+INC-00185,2026-04-07T12:05,,Open,P4,Device,Help Desk,Healthcare,Firewall rule mismatch,72,83.83,7.54,No,No
+INC-00186,2026-02-27T00:48,2026-02-27T06:04,Resolved,P3,Access,Endpoint Support,Small Business,Expired certificate,24,5.27,1.0,Yes,No
+INC-00187,2026-03-12T06:59,2026-03-13T00:44,Resolved,P2,Network,Help Desk,Healthcare,Expired certificate,8,17.75,1.06,No,No
+INC-00188,2026-04-25T19:43,2026-04-26T03:02,Resolved,P1,Software,Endpoint Support,Healthcare,Firewall rule mismatch,4,7.33,0.9,No,Yes
+INC-00189,2026-01-15T04:32,2026-01-16T00:24,Resolved,P2,Mobile Device Management,Customer Success,Government,Expired certificate,8,19.88,5.86,No,No
+INC-00190,2026-05-14T07:26,2026-05-15T04:15,Resolved,P3,Access,Network Ops,Small Business,Firewall rule mismatch,24,20.83,4.52,Yes,No
+INC-00191,2026-04-08T16:20,2026-04-10T11:19,Closed,P3,Mobile Device Management,Customer Success,Small Business,Expired certificate,24,42.99,4.07,No,No
+INC-00192,2026-02-06T14:58,2026-02-07T03:32,Closed,P4,Network,Network Ops,Small Business,Expired certificate,72,12.57,4.28,Yes,No
+INC-00193,2026-01-21T14:54,,Open,P2,Network,Security,Small Business,License assignment issue,8,8.68,2.32,No,Yes
+INC-00194,2026-02-18T18:46,2026-02-20T12:22,Resolved,P3,Mobile Device Management,Security,Government,Password reset process gap,24,41.6,8.06,No,No
+INC-00195,2026-01-31T23:48,2026-02-01T10:25,Resolved,P2,Access,Network Ops,Government,VPN configuration drift,8,10.62,2.75,No,No
+INC-00196,2026-04-02T09:16,2026-04-03T09:24,Closed,P3,Software,Endpoint Support,Government,Expired certificate,24,24.14,4.58,No,No
+INC-00197,2026-05-25T07:47,2026-05-25T19:57,Resolved,P3,Device,Endpoint Support,Government,Carrier provisioning delay,24,12.17,2.63,Yes,No
+INC-00198,2026-05-26T07:31,2026-05-26T19:25,Resolved,P2,Access,Endpoint Support,Small Business,Carrier provisioning delay,8,11.91,1.52,No,No
+INC-00199,2026-02-05T23:34,,Open,P4,Network,Customer Success,Enterprise,Device enrollment issue,72,61.67,21.4,Yes,No
+INC-00200,2026-01-02T13:08,2026-01-06T19:11,Resolved,P4,Security,Network Ops,Small Business,Outdated knowledge article,72,102.05,7.18,No,No
+INC-00201,2026-05-04T21:31,,Open,P1,Software,Customer Success,Government,Firewall rule mismatch,4,1.14,0.25,Yes,Yes
+INC-00202,2026-04-21T05:06,,Open,P4,Access,Customer Success,Government,Outdated knowledge article,72,110.66,10.48,No,No
+INC-00203,2026-04-06T12:29,2026-04-08T00:07,Resolved,P3,Device,Help Desk,Enterprise,Device enrollment issue,24,35.64,4.99,No,No
+INC-00204,2026-05-02T01:40,2026-05-02T06:11,Resolved,P3,Device,Security,Enterprise,Firewall rule mismatch,24,4.53,0.34,Yes,No
+INC-00205,2026-05-26T15:17,2026-05-27T02:35,Resolved,P4,Access,Customer Success,Enterprise,Carrier provisioning delay,72,11.31,2.89,Yes,No
+INC-00206,2026-02-23T18:09,2026-02-27T13:54,Closed,P4,Network,Customer Success,Healthcare,License assignment issue,72,91.76,30.16,No,No
+INC-00207,2026-05-19T10:24,2026-05-23T06:32,Resolved,P4,Device,Help Desk,Government,Password reset process gap,72,92.14,26.46,No,No
+INC-00208,2026-01-20T10:38,,Open,P2,Access,Security,Small Business,Hardware failure,8,15.84,2.68,No,Yes
+INC-00209,2026-04-07T13:11,2026-04-08T03:25,Closed,P2,Software,Help Desk,Enterprise,VPN configuration drift,8,14.23,1.08,No,No
+INC-00210,2026-02-09T23:24,2026-02-10T07:06,Resolved,P2,Security,Security,Enterprise,Carrier provisioning delay,8,7.7,0.6,Yes,No
+INC-00211,2026-05-23T17:32,2026-05-24T02:52,Resolved,P2,Device,Security,Small Business,Password reset process gap,8,9.34,0.72,No,No
+INC-00212,2026-01-22T23:57,2026-01-24T11:17,Resolved,P3,Device,Endpoint Support,Healthcare,Carrier provisioning delay,24,35.33,7.83,No,No
+INC-00213,2026-02-07T02:10,2026-02-08T06:30,Closed,P3,Network,Security,Government,Expired certificate,24,28.34,3.97,No,No
+INC-00214,2026-02-20T14:06,2026-02-21T11:32,Resolved,P4,Device,Customer Success,Small Business,Outdated knowledge article,72,21.45,7.18,Yes,No
+INC-00215,2026-02-04T09:20,2026-02-05T23:06,Resolved,P3,Device,Endpoint Support,Government,VPN configuration drift,24,37.78,7.32,No,No
+INC-00216,2026-05-28T07:20,2026-05-30T08:12,Closed,P4,Software,Network Ops,Healthcare,Firewall rule mismatch,72,48.87,7.8,Yes,No
+INC-00217,2026-02-23T14:51,2026-02-23T18:28,Resolved,P1,Security,Endpoint Support,Healthcare,VPN configuration drift,4,3.62,1.07,Yes,No
+INC-00218,2026-04-19T12:04,,Open,P2,Software,Endpoint Support,Enterprise,Outdated knowledge article,8,10.08,1.95,No,No
+INC-00219,2026-01-22T03:49,2026-01-23T14:06,Resolved,P4,Billing,Customer Success,Small Business,Outdated knowledge article,72,34.3,3.43,Yes,No
+INC-00220,2026-01-03T03:16,,Open,P4,Device,Network Ops,Small Business,Outdated knowledge article,72,31.31,6.81,Yes,No
+INC-00221,2026-05-09T04:22,2026-05-11T16:14,Closed,P3,Billing,Help Desk,Enterprise,Carrier provisioning delay,24,59.87,4.87,No,No
+INC-00222,2026-02-22T16:30,2026-02-23T16:00,Resolved,P3,Network,Security,Enterprise,VPN configuration drift,24,23.5,4.26,Yes,No
+INC-00223,2026-01-06T10:41,2026-01-06T12:40,Resolved,P1,Security,Customer Success,Healthcare,Outdated knowledge article,4,1.98,0.65,Yes,No
+INC-00224,2026-03-01T12:40,2026-03-02T02:59,Closed,P3,Mobile Device Management,Network Ops,Small Business,License assignment issue,24,14.33,2.42,Yes,No
+INC-00225,2026-02-24T06:17,2026-02-26T04:24,Resolved,P3,Access,Customer Success,Healthcare,Outdated knowledge article,24,46.13,10.3,No,No
+INC-00226,2026-03-09T21:55,2026-03-11T05:19,Resolved,P3,Device,Customer Success,Enterprise,Outdated knowledge article,24,31.41,7.2,No,No
+INC-00227,2026-02-14T21:45,,Open,P3,Device,Security,Enterprise,Expired certificate,24,48.83,11.09,No,No
+INC-00228,2026-02-06T16:24,2026-02-07T19:49,Resolved,P3,Access,Endpoint Support,Healthcare,Firewall rule mismatch,24,27.42,6.1,No,No
+INC-00229,2026-02-17T10:53,2026-02-17T21:00,Resolved,P2,Network,Network Ops,Small Business,Firewall rule mismatch,8,10.12,3.13,No,No
+INC-00230,2026-05-06T13:45,2026-05-08T16:47,Closed,P3,Device,Network Ops,Government,Password reset process gap,24,51.03,5.11,No,No
+INC-00231,2026-02-13T14:36,2026-02-15T12:10,Closed,P3,Software,Help Desk,Government,Firewall rule mismatch,24,45.58,9.8,No,No
+INC-00232,2026-01-11T23:28,2026-01-14T19:45,Closed,P4,Network,Network Ops,Government,Password reset process gap,72,68.28,5.51,Yes,No
+INC-00233,2026-01-23T14:55,2026-01-26T02:34,Resolved,P3,Network,Security,Small Business,Carrier provisioning delay,24,59.66,6.74,No,No
+INC-00234,2026-02-22T01:36,2026-02-23T01:14,Resolved,P3,Billing,Security,Government,License assignment issue,24,23.65,5.42,Yes,No
+INC-00235,2026-01-25T04:48,2026-01-27T04:47,Resolved,P3,Mobile Device Management,Network Ops,Healthcare,Expired certificate,24,48.0,16.69,No,No
+INC-00236,2026-03-05T21:25,,Open,P2,Network,Help Desk,Enterprise,User training gap,8,10.81,2.59,No,No
+INC-00237,2026-04-05T14:31,2026-04-06T12:50,Resolved,P3,Network,Help Desk,Small Business,Outdated knowledge article,24,22.33,6.94,Yes,No
+INC-00238,2026-04-12T06:27,2026-04-16T10:28,Closed,P4,Billing,Security,Healthcare,License assignment issue,72,100.03,13.06,No,No
+INC-00239,2026-01-13T01:06,2026-01-16T06:29,Closed,P4,Billing,Network Ops,Small Business,Hardware failure,72,77.38,4.25,No,No
+INC-00240,2026-02-21T22:58,2026-02-22T01:09,Resolved,P1,Mobile Device Management,Security,Government,Device enrollment issue,4,2.19,0.21,Yes,No
+INC-00241,2026-02-12T01:25,2026-02-13T16:27,Resolved,P3,Mobile Device Management,Help Desk,Enterprise,Expired certificate,24,39.03,6.98,No,No
+INC-00242,2026-02-27T16:43,2026-02-28T21:38,Resolved,P3,Access,Endpoint Support,Healthcare,Hardware failure,24,28.92,7.48,No,No
+INC-00243,2026-01-27T03:20,2026-01-27T07:38,Resolved,P1,Device,Network Ops,Healthcare,Device enrollment issue,4,4.31,0.39,No,No
+INC-00244,2026-02-12T14:22,2026-02-14T10:49,Resolved,P3,Access,Endpoint Support,Healthcare,Device enrollment issue,24,44.46,14.49,No,No
+INC-00245,2026-02-01T18:46,2026-02-03T20:32,Closed,P4,Access,Security,Enterprise,Expired certificate,72,49.78,7.19,Yes,No
+INC-00246,2026-03-14T22:01,2026-03-17T01:29,Resolved,P3,Software,Network Ops,Small Business,VPN configuration drift,24,51.48,5.75,No,No
+INC-00247,2026-03-03T15:24,2026-03-04T01:42,Closed,P3,Billing,Help Desk,Government,Outdated knowledge article,24,10.31,2.49,Yes,Yes
+INC-00248,2026-05-26T13:23,2026-05-27T01:13,Resolved,P2,Mobile Device Management,Help Desk,Enterprise,Password reset process gap,8,11.83,3.3,No,No
+INC-00249,2026-01-16T12:32,,Open,P3,Access,Endpoint Support,Enterprise,Firewall rule mismatch,24,20.04,5.61,Yes,No
+INC-00250,2026-01-22T09:05,2026-01-23T17:42,Resolved,P3,Access,Security,Small Business,License assignment issue,24,32.63,11.17,No,No
+INC-00251,2026-01-17T09:44,2026-01-18T14:13,Resolved,P3,Billing,Endpoint Support,Enterprise,Hardware failure,24,28.5,1.92,No,No
+INC-00252,2026-02-14T03:00,2026-02-15T22:38,Resolved,P3,Access,Customer Success,Government,Carrier provisioning delay,24,43.64,4.33,No,No
+INC-00253,2026-03-10T23:56,2026-03-11T10:32,Resolved,P3,Billing,Customer Success,Enterprise,VPN configuration drift,24,10.61,1.6,Yes,No
+INC-00254,2026-01-20T15:29,2026-01-23T07:42,Resolved,P4,Software,Security,Healthcare,VPN configuration drift,72,64.23,12.84,Yes,No
+INC-00255,2026-01-30T07:47,2026-02-01T23:47,Resolved,P4,Mobile Device Management,Help Desk,Small Business,Outdated knowledge article,72,64.01,19.69,Yes,Yes
+INC-00256,2026-01-10T17:51,2026-01-13T01:01,Closed,P3,Access,Security,Government,Device enrollment issue,24,55.18,6.48,No,No
+INC-00257,2026-01-14T05:14,2026-01-16T06:16,Resolved,P3,Access,Endpoint Support,Government,VPN configuration drift,24,49.04,16.49,No,Yes
+INC-00258,2026-01-03T11:12,2026-01-04T07:31,Resolved,P3,Software,Security,Small Business,Expired certificate,24,20.33,5.53,Yes,No
+INC-00259,2026-03-04T04:00,2026-03-08T20:17,Resolved,P4,Software,Help Desk,Government,Password reset process gap,72,112.29,13.46,No,No
+INC-00260,2026-03-20T03:13,2026-03-22T21:36,Resolved,P4,Device,Network Ops,Government,Device enrollment issue,72,66.4,11.68,Yes,No
+INC-00261,2026-05-14T13:44,2026-05-14T22:47,Closed,P1,Access,Help Desk,Healthcare,User training gap,4,9.06,3.1,No,Yes
+INC-00262,2026-04-22T21:08,2026-04-23T00:15,Resolved,P1,Software,Security,Government,Hardware failure,4,3.13,0.96,Yes,No
+INC-00263,2026-02-21T04:49,2026-02-23T03:56,Resolved,P3,Access,Endpoint Support,Government,User training gap,24,47.13,4.55,No,No
+INC-00264,2026-02-23T14:19,2026-02-24T00:39,Resolved,P2,Network,Customer Success,Enterprise,Expired certificate,8,10.34,0.8,No,No
+INC-00265,2026-01-24T22:15,2026-01-29T18:38,Closed,P4,Network,Security,Healthcare,Password reset process gap,72,116.4,23.75,No,No
+INC-00266,2026-05-23T23:35,2026-05-25T10:03,Closed,P4,Mobile Device Management,Help Desk,Enterprise,Password reset process gap,72,34.48,2.78,Yes,No
+INC-00267,2026-02-03T06:52,2026-02-05T10:31,Resolved,P4,Mobile Device Management,Help Desk,Enterprise,Device enrollment issue,72,51.67,11.61,Yes,No
+INC-00268,2026-02-02T02:57,2026-02-02T20:12,Resolved,P2,Software,Customer Success,Small Business,User training gap,8,17.25,1.5,No,Yes
+INC-00269,2026-04-20T05:22,2026-04-20T21:23,Resolved,P3,Device,Network Ops,Enterprise,License assignment issue,24,16.02,2.12,Yes,No
+INC-00270,2026-03-17T15:26,2026-03-19T20:52,Closed,P3,Network,Network Ops,Small Business,Expired certificate,24,53.44,3.65,No,No
+INC-00271,2026-03-05T20:51,2026-03-07T07:17,Resolved,P3,Billing,Security,Small Business,Firewall rule mismatch,24,34.44,11.95,No,No
+INC-00272,2026-05-25T16:20,2026-05-27T18:36,Resolved,P4,Network,Help Desk,Government,Password reset process gap,72,50.28,2.91,Yes,No
+INC-00273,2026-04-02T18:14,2026-04-07T15:16,Resolved,P4,Device,Customer Success,Enterprise,Expired certificate,72,117.03,14.55,No,No
+INC-00274,2026-04-10T11:59,2026-04-12T14:58,Resolved,P3,Mobile Device Management,Security,Enterprise,Outdated knowledge article,24,51.0,5.24,No,No
+INC-00275,2026-05-25T06:53,2026-05-30T05:30,Closed,P4,Software,Help Desk,Enterprise,Password reset process gap,72,118.63,25.23,No,No
+INC-00276,2026-05-15T15:00,,Open,P2,Access,Network Ops,Government,Password reset process gap,8,7.97,0.88,Yes,Yes
+INC-00277,2026-02-06T03:54,2026-02-06T09:38,Resolved,P1,Software,Endpoint Support,Enterprise,Outdated knowledge article,4,5.74,1.94,No,Yes
+INC-00278,2026-02-10T23:27,2026-02-12T23:47,Closed,P3,Access,Customer Success,Government,Expired certificate,24,48.34,11.83,No,No
+INC-00279,2026-04-07T09:46,2026-04-09T04:19,Resolved,P3,Billing,Customer Success,Small Business,License assignment issue,24,42.56,4.4,No,Yes
+INC-00280,2026-02-26T20:36,2026-02-26T22:32,Closed,P1,Software,Security,Healthcare,Device enrollment issue,4,1.94,0.18,Yes,No
+INC-00281,2026-03-27T14:00,2026-03-29T02:14,Resolved,P4,Security,Help Desk,Enterprise,Password reset process gap,72,36.23,9.35,Yes,No
+INC-00282,2026-02-12T13:31,2026-02-14T18:53,Resolved,P3,Security,Endpoint Support,Healthcare,Carrier provisioning delay,24,53.38,11.41,No,No
+INC-00283,2026-01-09T09:01,2026-01-10T06:51,Resolved,P3,Billing,Endpoint Support,Healthcare,Device enrollment issue,24,21.85,1.58,Yes,No
+INC-00284,2026-01-24T10:38,2026-01-26T21:48,Closed,P3,Mobile Device Management,Network Ops,Small Business,Carrier provisioning delay,24,59.18,15.47,No,No
+INC-00285,2026-02-18T13:44,,Open,P1,Network,Network Ops,Enterprise,Password reset process gap,4,5.99,0.78,No,Yes
+INC-00286,2026-05-06T04:03,2026-05-07T04:15,Closed,P3,Software,Customer Success,Small Business,Expired certificate,24,24.21,1.85,No,No
+INC-00287,2026-03-16T02:30,2026-03-16T19:41,Resolved,P2,Access,Security,Enterprise,Firewall rule mismatch,8,17.19,4.91,No,No
+INC-00288,2026-04-08T11:11,2026-04-09T16:08,Resolved,P3,Device,Security,Enterprise,Carrier provisioning delay,24,28.96,5.27,No,No
+INC-00289,2026-01-22T21:22,2026-01-26T23:29,Closed,P4,Security,Customer Success,Enterprise,User training gap,72,98.13,33.48,No,No
+INC-00290,2026-05-18T21:55,,Open,P4,Device,Help Desk,Small Business,Password reset process gap,72,112.75,35.46,No,No
+INC-00291,2026-05-27T21:39,2026-05-28T09:54,Closed,P3,Mobile Device Management,Network Ops,Healthcare,Carrier provisioning delay,24,12.26,1.25,Yes,No
+INC-00292,2026-04-22T06:52,,Open,P1,Access,Help Desk,Enterprise,User training gap,4,6.65,0.85,No,No
+INC-00293,2026-03-12T16:29,2026-03-14T23:50,Resolved,P3,Software,Customer Success,Small Business,Device enrollment issue,24,55.36,15.83,No,No
+INC-00294,2026-05-30T03:59,2026-05-30T13:53,Resolved,P3,Access,Security,Small Business,VPN configuration drift,24,9.92,2.83,Yes,No
+INC-00295,2026-05-02T01:11,2026-05-02T20:36,Resolved,P3,Device,Endpoint Support,Enterprise,User training gap,24,19.42,4.57,Yes,No
+INC-00296,2026-03-02T01:47,2026-03-04T13:57,Resolved,P4,Network,Security,Government,VPN configuration drift,72,60.17,19.2,Yes,Yes
+INC-00297,2026-01-26T07:08,2026-01-27T23:23,Closed,P4,Mobile Device Management,Endpoint Support,Enterprise,Expired certificate,72,40.25,11.36,Yes,No
+INC-00298,2026-04-15T23:31,2026-04-17T22:02,Resolved,P3,Mobile Device Management,Network Ops,Enterprise,VPN configuration drift,24,46.53,13.79,No,No
+INC-00299,2026-05-15T18:01,2026-05-16T19:49,Resolved,P4,Device,Endpoint Support,Enterprise,Outdated knowledge article,72,25.81,7.77,Yes,No
+INC-00300,2026-04-29T16:25,2026-05-02T22:51,Resolved,P4,Network,Endpoint Support,Small Business,Carrier provisioning delay,72,78.44,19.95,No,No
