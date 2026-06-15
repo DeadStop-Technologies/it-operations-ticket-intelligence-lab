@@ -6,30 +6,6 @@ A practical GitHub portfolio project showing how IT support, customer success, a
 
 Many IT teams are reactive. They wait for tickets, fix the issue, and move on. This project shows a better approach: use ticket data to find patterns, identify root causes, reduce repeat issues, and improve service delivery.
 
-This is designed as an interview-ready project for roles like:
-
-- Technical Account Manager
-- Customer Success Manager
-- IT Support Specialist
-- Help Desk Analyst
-- Service Desk Analyst
-- Cloud / SaaS Support
-- Junior Systems Administrator
-- IT Operations Analyst
-
-## What this project demonstrates
-
-- GitHub repository structure
-- Python scripting
-- CSV data handling
-- SQLite database basics
-- SQL analysis
-- Operational reporting
-- SLA tracking
-- Root-cause analysis
-- Business communication
-- Process improvement thinking
-
 ## Project workflow
 
 1. Generate or load ticket data.
